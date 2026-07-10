@@ -135,43 +135,6 @@ streamlit run app.py
 
 ---
 
-## 📥 Sample Request
-
-```json
-{
-  "topic": "Python",
-  "difficulty": "Easy",
-  "question_count": 5,
-  "question_type": "MCQ"
-}
-```
-
----
-
-## 📤 Sample Response
-
-```json
-{
-  "success": true,
-  "message": "Quiz generated successfully",
-  "data": {
-    "questions": [
-      {
-        "question": "What is Python?",
-        "options": [
-          "Programming Language",
-          "Snake",
-          "Game",
-          "Database"
-        ],
-        "correct_answer": "Programming Language"
-      }
-    ]
-  }
-}
-```
-
----
 
 ## 🔮 Future Improvements
 
