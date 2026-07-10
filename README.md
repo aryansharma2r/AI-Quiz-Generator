@@ -150,7 +150,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Bittu Sharma**
+**Aryan Sharma**
 
 ---
 
