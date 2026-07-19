@@ -63,7 +63,7 @@ AI-Quiz-Generator/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Quiz-Generator.git
+git clone https://github.com/aryansharma2r/AI-Quiz-Generator.git
 ```
 
 Go to the project folder
